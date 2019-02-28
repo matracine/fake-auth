@@ -1,0 +1,26 @@
+{
+    "name": "matracine/fake-auth",
+    "description": "Fake user authentication library for developpement",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matthieu Racine",
+            "email": "matthieu.racine@gmail.com"
+        }
+    ],
+    "keywords": [
+        "library",
+        "authantication",
+        "developpement"
+    ],
+    "license": "MIT",
+    "require" : {
+        "php" : "^7.0",
+        "symfony/security": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mracine\\Security\\Fake\\": "src/"
+        }
+    }
+}
