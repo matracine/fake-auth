@@ -12,9 +12,6 @@ Classes :
 
 Please feal free to open issue for improvements, bugs, requests...
 
-
-**Code coverage** | [![Code Coverage](https://scrutinizer-ci.com/g/matracine/ip-tools/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/matracine/ip-tools/?branch=master)
-
 ## Installation
 With composer:
 ```
