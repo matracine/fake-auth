@@ -15,7 +15,7 @@ Please feal free to open issue for improvements, bugs, requests...
 ## Installation
 With composer:
 ```
-composer require matracine/fake-user
+composer require matracine/fake-auth
 ```
 
 ## Usage
